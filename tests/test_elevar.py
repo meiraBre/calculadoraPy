@@ -1,2 +1,3 @@
-def elevar_numeros (num1, num2):
-    return num1 ** num2
+def test_elevar_numeros_com_input ():
+    actual_result = calc.elevar_numeros (num1 = 2, num2 = 3)
+    assert actual_result == 8

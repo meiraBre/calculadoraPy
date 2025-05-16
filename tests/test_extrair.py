@@ -1,3 +1,3 @@
-def extrair_raiz_quadrada (num1):
-    return num1 ** 0.5
-#Utilização de IA para fazer a função de raiz quadrada
+def test_extrair_raiz_quadrada_numeros_com_input ():
+    actual_result = calc.extrair_raiz_quadrada (num1 = 4)
+    assert actual_result == 2

@@ -1,2 +1,3 @@
-def subtrair_numeros (num1, num2):
-    return num1 - num2
+def test_subtrair_numeros_com_input ():
+    actual_result = calc.subtrair_numeros (num1 = 9, num2 = 9)
+    assert actual_result == 0 
