@@ -1,5 +1,5 @@
 # 🗃Calculadora em Python e testes com Pytest
-[Link do repositorio](https://github.com/meiraBre/calculadoraPy)
+[Link do repositorio com todas as atividades do estágio e demais informações](https://github.com/meiraBre/Compass-uol)
 #### (Trabalho realizado durante o estágio de QA na Compass)
 
 ## 🧰 Técnicas e ferramentas utilizadas:
