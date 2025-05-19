@@ -1,4 +1,5 @@
 # 🗃Calculadora em Python e testes com Pytest
+[Link do repositorio](https://github.com/meiraBre/calculadoraPy)
 (Trabalho realizado durante o estágio de QA na Compass)
 
 ## 🧰 Técnicas e ferramentas utilizadas:
